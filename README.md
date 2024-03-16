@@ -1,2 +1,2 @@
 # joe-schlimmer
-new joeschlimmer.com static site template and content
+New <https://joeschlimmer.com> static site template and content
